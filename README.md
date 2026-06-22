@@ -6,7 +6,7 @@ I'm Rinki! A passionate **CSE Student** and **Aspiring Software Engineer**.
 
 *   🔭 I’m currently learning and building projects using **MERN Stack** and **C++**.
 *   ⚡ I'm passionate about **Data Structures & Algorithms** and exploring **Generative AI**.
-*   📫 How to reach me: [Your LinkedIn Profile Link]
+*   📫 How to reach me: [https://www.linkedin.com/in/rinki-rao-97bb73389]
 
 ---
 ### 🛠 Technical Skills
